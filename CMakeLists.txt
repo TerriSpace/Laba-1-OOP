@@ -6,7 +6,7 @@ set(CMAKE_CXX_STANDARD 23)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
-add_executable(LabLoop main.cpp src/functions.cpp)
+add_executable(Lab1oop main.cpp src/functions.cpp)
 
 # Google Test integration через Git
 include(FetchContent)

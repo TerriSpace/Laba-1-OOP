@@ -1,5 +1,5 @@
 #include "gtest/gtest.h"
-#include "header.h"
+#include "include/header.h"
 
 // Тестирование функции total()
 TEST(TotalFunctionTest, SingleNumberTest) {
